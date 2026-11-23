@@ -1,3 +1,2 @@
 test:
-    @echo "Add your project tests and update this recipe to run them."
-    @exit 1
+    python3 -B -m pytest
